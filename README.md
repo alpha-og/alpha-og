@@ -1,4 +1,11 @@
-### Hi there 👋
+<div align="center">
+   <h1>I'm <a href="https://alpha-og.github.io/portfolio/">Athul Anoop</a> 🙃</h1>
+  <div style="display:flex; flex-direction:row;">
+    <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=alpha-og&&show_icons=true&theme=dracula"/>
+  </div>
+</div>
+
 
 <!--
 **alpha-og/alpha-og** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
