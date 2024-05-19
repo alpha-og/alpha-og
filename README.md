@@ -1,8 +1,10 @@
 <div align="center">
    <h1>I'm <a href="https://alpha-og.github.io/portfolio/">Athul Anoop</a> 🙃</h1>
   <div style="display:flex; flex-direction:row;">
-    <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=alpha-og&&show_icons=true&theme=dracula"/>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpha-og&theme=dracula"/>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alpha-og&theme=dracula"/>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alpha-og&theme=dracula"/>
+       
   </div>
 </div>
 
