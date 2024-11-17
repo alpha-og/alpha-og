@@ -5,7 +5,7 @@
 </div>
 <div>
   <p>
-    I'm a Computer Science student and software engineer, creating solutions at the crossroads of form and function. I strive to write code that is both efficient and delightful to use. Systems software, embedded systems and meachine learning are where my interest and efforts are primarily directed to. 
+    I'm a Computer Science student and software engineer, creating solutions at the crossroads of form and function. I strive to write software that is both efficient and delightful to use. Systems software, embedded systems and meachine learning are where my interest and efforts are primarily directed to. 
   </p>
 </div>
 <div>
