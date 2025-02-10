@@ -57,4 +57,3 @@ When it comes to cross platform applications, I use Tauri with React for the fro
 
 ## Github Stats
 ![alpha-og's Stats](https://github-readme-stats.vercel.app/api?username=alpha-og&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![alpha-og's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alpha-og&theme=dracula&hide_border=true)
